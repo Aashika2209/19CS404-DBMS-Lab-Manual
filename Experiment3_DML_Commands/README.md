@@ -92,6 +92,7 @@ where specialization='Cardiology';
 ```
 
 **Output:**
+
 <img width="612" height="365" alt="image" src="https://github.com/user-attachments/assets/339f0827-6820-4767-b412-d9b4b057cb00" />
 
 
@@ -125,6 +126,7 @@ where cost_price>50 and quantity<100;
 ```
 
 **Output:**
+
 <img width="617" height="103" alt="image" src="https://github.com/user-attachments/assets/8526bb24-d691-4d38-8773-613c4ab57ab0" />
 
 
@@ -147,6 +149,7 @@ select *from EmployeeInfo
 where EmpID between 5 and 9;
 ```
 **Output:**
+
 <img width="610" height="202" alt="image" src="https://github.com/user-attachments/assets/6770d993-f36f-4ebb-a88c-551570b81962" />
 
 
@@ -219,6 +222,7 @@ delete from customer
 where GRADE>=2;
 ```
 **Output:**
+
 <img width="610" height="315" alt="image" src="https://github.com/user-attachments/assets/c8d3904f-a86b-4bda-bda6-edce2ace3168" />
 
 
@@ -239,6 +243,7 @@ select *from customer
 where cust_name LIKE '%n';
 ```
 **Output:**
+
 <img width="611" height="371" alt="image" src="https://github.com/user-attachments/assets/d900b499-8140-48cf-9ecb-80a3a0d66afe" />
 
 
@@ -326,6 +331,7 @@ from products
 where original_price * discount_percentage >50.0;
 ```
 **Output:**
+
 <img width="1322" height="197" alt="image" src="https://github.com/user-attachments/assets/4a22bc6b-c4ae-4e9e-a984-cf329dc0e8c2" />
 
 
